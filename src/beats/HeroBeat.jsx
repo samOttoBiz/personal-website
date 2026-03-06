@@ -97,6 +97,7 @@ export default function HeroBeat() {
 
         {/* Sub */}
         <motion.p
+          className="hero-sub"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.70, ease: [0.22, 1, 0.36, 1], delay: 0.30 }}
@@ -113,6 +114,7 @@ export default function HeroBeat() {
         </motion.p>
 
         <motion.p
+          className="hero-caption"
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.60, ease: [0.22, 1, 0.36, 1], delay: 0.40 }}
@@ -152,6 +154,7 @@ export default function HeroBeat() {
             letterSpacing: '0.16em',
             textTransform: 'uppercase',
             color: 'rgba(247,244,239,0.45)',
+            whiteSpace: 'nowrap',
           }}
         >
           Scroll to begin my journey
@@ -165,6 +168,15 @@ export default function HeroBeat() {
           <path d="M1 1L8 8L15 1" stroke="rgba(247,244,239,0.35)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
         </motion.svg>
       </motion.div>
+
+      <style>{`
+        @media (max-width: 640px) {
+          #hero { padding-top: 64px !important; padding-bottom: 100px !important; }
+          #hero h1 { font-size: 34px !important; margin-bottom: 20px !important; }
+          #hero .hero-sub { font-size: 15px !important; margin-bottom: 8px !important; }
+          #hero .hero-caption { font-size: 13px !important; }
+        }
+      `}</style>
     </section>
   )
 }
