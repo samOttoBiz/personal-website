@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #f7f4ef;
+  --color-text: #1c1c1a;
+  --color-green: #2d5016;
+  --color-amber: #c4862a;
+  --color-surface: #edeae3;
+  --color-muted: #6b6660;
+
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+
+  --color-bg-alt: #f2efe9;
+  --color-bg-deep: #ede9e1;
+  --color-bg-sky: #faf8f3;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 128px 128px;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(196, 134, 42, 0.35);
+  border-radius: 2px;
+}
+
+footer {
+  position: relative;
+  z-index: 10;
+  background: rgba(26, 22, 37, 0.95);
+  color: rgba(247, 244, 239, 0.6);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .cloud-layer,
+  .forest-layer {
+    display: none !important;
+  }
+
+  #hero,
+  #work,
+  #stories,
+  #about,
+  #connect {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+}

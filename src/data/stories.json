@@ -1,0 +1,99 @@
+[
+  {
+    "id": "middle-math",
+    "title": "They Said I Belonged in the Middle",
+    "teaser": "A teacher told me I'd be at the bottom of the top class. I proved him wrong.",
+    "section": "Origin",
+    "readingTime": 2,
+    "image": null,
+    "body": [
+      "After taking the math placement test in 6th grade, I was put into Middle Math.",
+      "I wanted to be in High Math. So I finished the entire year's ALEKS curriculum in the first two months of school. Then I went back to my teacher and asked to be moved up.",
+      "He said: \"You are at the top of Middle Math, but you would be at the bottom of High Math — so no.\"",
+      "I remember sitting with that for a moment. Not because it crushed me. Because it clarified something.",
+      "He wasn't wrong about where I'd start. But he was thinking about a snapshot. I was thinking about a trajectory.",
+      "I went on to score the highest out of any student on the 7th grade placement test.",
+      "What that experience gave me wasn't just a spot in the right class. It gave me a mental model I still run on: I am not limited to being the best of a mediocre crowd. I can compete at the highest level — and win there.",
+      "Winning Valedictorian years later felt like a full-circle moment. Not because of the title, but because of what it confirmed: the ceiling was never where they told me it was."
+    ],
+    "closingLine": "The ceiling is rarely where they put it. You have to test it yourself."
+  },
+  {
+    "id": "star-wars-rally",
+    "title": "The Star Wars Rally",
+    "teaser": "A friend had a vision. I helped make it legendary.",
+    "section": "Origin",
+    "readingTime": 3,
+    "image": null,
+    "body": [
+      "My friend came to me with the wildest idea anyone had pitched for a school rally: a full Star Wars battle. Students versus faculty. Lightsabers. Costumes. The whole thing.",
+      "I didn't need to be the star of it. I just believed in it completely.",
+      "There's a particular skill that doesn't get talked about enough: the ability to fully commit to someone else's vision. Not half-commit while quietly thinking about how you'd do it differently. Actually commit — bring your whole energy, your whole creativity, your whole network — to making their thing succeed.",
+      "I helped recruit faculty. I helped coordinate costumes. I helped build the hype beforehand so that when the moment came, the room was already primed to go wild.",
+      "The rally became legendary. People talked about it for the rest of the year. My friend got the recognition he deserved.",
+      "And I felt something I hadn't quite expected: pride. Not the kind you get from being in the spotlight. The kind you get from watching something you believed in before anyone else did become real.",
+      "I think this is actually one of the rarest professional skills. Most ambitious people have a hard time being genuinely in service of someone else's idea. The ego wants to redirect, to improve, to make it a collaboration that reflects back on you. Sometimes the most powerful thing you can do is disappear into the work and let someone else shine.",
+      "I still look for opportunities to do this. It never feels like giving something up. It always feels like getting something better."
+    ],
+    "closingLine": "The best thing I built that year wasn't mine. That was the point."
+  },
+  {
+    "id": "hiking-club",
+    "title": "The Hiking Club",
+    "teaser": "Soft-launched with three people. Walked away from our first tabling with 100 sign-ups.",
+    "section": "Origin",
+    "readingTime": 3,
+    "image": null,
+    "body": [
+      "Senior year. My co-founder and I had this idea for a hiking club. Nothing elaborate — just a way to get people outside together.",
+      "We launched it with three members. Just us, basically.",
+      "Then we tabled. And something happened that I still can't fully explain: people just kept stopping. By the end of the afternoon, we had 100 sign-ups.",
+      "Other clubs asked us what our secret was. We didn't have a secret. We were just genuinely excited about hiking, and I think that's actually all it was.",
+      "There's a version of community building that's very strategic — you identify your target audience, you craft your messaging, you build a funnel. All of that can work. But there's another version that's simpler and, in my experience, more durable: you love the thing you're building, and you let people feel that.",
+      "Genuine excitement is weirdly rare. Most pitches are managed, careful, hedged. When you encounter something that isn't — when someone is just clearly, unself-consciously thrilled about what they're doing — it's magnetic.",
+      "The hiking club grew. We organized real trips. We had regular members. We became a place where people who wanted to get outside could find each other.",
+      "And I graduated knowing that I could build something from nothing, with just enthusiasm and a table."
+    ],
+    "closingLine": "Turns out genuine excitement is its own kind of strategy."
+  },
+  {
+    "id": "prism",
+    "title": "Prism",
+    "teaser": "We almost imploded before we wrote a line of code. We shipped anyway.",
+    "section": "Work",
+    "readingTime": 4,
+    "image": null,
+    "body": [
+      "Cal Poly's first AI hackathon. We almost imploded before we wrote a line of code.",
+      "The idea was Prism: a tool that converts live lecture audio into real-time visual aids using the Claude API. It was a genuinely good idea. But within the first hour, there was a conflict on the team that threatened to unravel everything.",
+      "I put the code down.",
+      "I created space for everyone to be heard. Not a mediated conversation, not a structured debrief — just a human moment where people could say what they were actually feeling without it becoming a fight. It took twenty minutes. Then we got back to work.",
+      "We shipped something we were genuinely proud of. We didn't win, but we were winners.",
+      "What I keep coming back to: the technical problem was never the hardest part. Building the audio pipeline, connecting to the API, getting the visual generation to work — all of that was tractable. You could Google your way to most of it.",
+      "The human problem was harder. A team of smart, motivated people who suddenly weren't pulling in the same direction. That kind of friction, left unaddressed, kills more projects than bad code ever has.",
+      "I think I was useful in that moment because I wasn't trying to win the argument. I wasn't trying to be right about who was right. I just wanted us to finish something together.",
+      "That's a different kind of leadership than the kind that gets written about. It's quieter. It doesn't always get credited. But it's the kind that actually ships things."
+    ],
+    "closingLine": "Prism was a hackathon project. But the thing I built that day wasn't a product. It was trust."
+  },
+  {
+    "id": "triathlon",
+    "title": "Almost Didn't Make It Out of the Water",
+    "teaser": "Three minutes to round the buoy or I'd be disqualified. I'm not a great swimmer. I finished.",
+    "section": "Human",
+    "readingTime": 3,
+    "image": null,
+    "body": [
+      "I signed up for a triathlon without fully thinking through the swimming part.",
+      "Swim, bike, run. I can bike. I can run. Swimming is a different thing entirely. Swimming in open water, with other competitors, in a time window, is a different thing still.",
+      "Three minutes to round the buoy or I'd be disqualified. The water was cold. My technique was not good. There were people around me who clearly knew what they were doing, and I was not one of them.",
+      "I put my head down and swam.",
+      "I made the buoy. I finished the swim. I finished the bike. I finished the run. I crossed the finish line of a triathlon I had no business attempting.",
+      "Here's what I took from it: the gap between 'I can't do this' and 'I did this' is usually not talent. It's the willingness to look bad in the middle.",
+      "There's a long, uncomfortable period in most hard things where you're clearly not great yet, where people around you are clearly better, where quitting would be completely reasonable. That period is the test. Not of ability — of identity. The question isn't 'am I good at this?' It's 'am I the kind of person who finishes?'",
+      "I finished the triathlon. Not fast. Not gracefully. But I finished.",
+      "Now I know: when I commit to something, I finish it. No matter what the course looks like."
+    ],
+    "closingLine": "That's a more useful thing to know about yourself than whether you're a good swimmer."
+  }
+]
